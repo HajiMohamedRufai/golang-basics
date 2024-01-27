@@ -14,6 +14,12 @@
 - Main.go file has a main function
 - Go project has only 1 main function
 
+
+
   The subfolders can contain numerous go files
+
+  Clone this repo and check the flow of the go project structure
+  
+  **Thanks!**
   
   
